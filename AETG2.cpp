@@ -1,9 +1,9 @@
 //
 //  main.cpp
-//  AETG3
+//  AETG2
 //
-//  Created by 李刚 on 2018/12/20.
-//  Copyright © 2018 李刚. All rights reserved.
+//  Created by lee on 2018/12/20.
+//  Copyright © 2018 lee. All rights reserved.
 //
 
 #include <iostream>     // std::cout
