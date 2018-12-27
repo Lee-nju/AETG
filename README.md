@@ -10,3 +10,5 @@ combinatorial test generation for up to 10-way coverage as i take usual circumst
 
 Notice that in addition to generating minimum test case, i dont achieve another function which is frequently talked in combinatorial testing,such as constriant, seed and mixed strength, ect.
 
+I simply implemented several constraints on the basis of AETG3. Now the algorithm can achieve constraints between two or 
+three parameters. The format of the file can be found in example.
